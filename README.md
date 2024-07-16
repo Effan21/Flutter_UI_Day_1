@@ -1,6 +1,6 @@
 # day1_app
 
-Day 1 of Flutter UI50 days flutter UI challenge
+Day 1 of Flutter UI 50 days flutter UI challenge
 
 ## Getting Started
 
